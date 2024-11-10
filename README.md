@@ -1,4 +1,5 @@
 # Standard Operating Procedure
+Vedant Agarwal
 
 # RoboManipal Neural Networks SOP
 
@@ -13,10 +14,6 @@ The goal of this SOP is to ensure consistency, quality, and efficiency in how we
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-**Vedant Agarwal**
 
 ---
 
