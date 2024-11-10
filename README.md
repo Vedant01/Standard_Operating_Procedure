@@ -74,8 +74,6 @@ Deep Belief Networks (DBNs) are a type of generative neural network composed of 
 Restricted Boltzmann Machines (RBMs) are energy-based neural networks used for unsupervised learning and feature extraction. RBMs are the building blocks for DBNs and are useful for dimensionality reduction and collaborative filtering. In robotics, RBMs can be used for encoding sensor data or as a component of more complex networks.
 
 **Applications in Robotics:** Sensor data encoding, feature extraction, and pattern recognition.
----
-Here's an additional section for the README covering **YOLO**, **R-CNN**, **Faster R-CNN**, **SSD**, and **OpenCV**. Each of these technologies is widely used in computer vision and can be highly beneficial for robotics applications involving object detection and image processing.
 
 ---
 
