@@ -154,7 +154,7 @@ Here's an overview of **Fast R-CNN** and **Mask R-CNN** to go along with your do
 
 ---
 
-### • OpenCV (Open Source Computer Vision Library)
+### OpenCV (Open Source Computer Vision Library)
 
 **OpenCV** is an open-source computer vision and machine learning software library. It provides tools for image processing, object detection, feature extraction, and more. OpenCV is widely used in robotics due to its simplicity, efficiency, and large number of pre-built functions. It can be used for image preprocessing, camera calibration, motion detection, and feature matching, among other tasks.
 
