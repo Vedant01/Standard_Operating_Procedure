@@ -1,5 +1,5 @@
 # Standard Operating Procedure
-Vedant Agarwal
+Author: Vedant Agarwal
 
 # RoboManipal Neural Networks SOP
 
